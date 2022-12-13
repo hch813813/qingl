@@ -1,7 +1,7 @@
 // @grant require
 /*
 中青看点 听歌
-targetTime 要刷的目标时长11
+targetTime 要刷的目标时长
 step 每次刷的时长
 taskNum 领的宝箱总数
 不懂改的就不要动这三个设置
